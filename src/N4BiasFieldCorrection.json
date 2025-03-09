@@ -1,0 +1,7 @@
+{
+	"name": "N4BiasFieldCorrection",
+	"source_code": "N4BiasFieldCorrection.py",
+	"import_name": "N4BiasFieldCorrection",
+	"attr": "N4BiasFieldCorrection",
+	"add_info":{"use_docker":false, "sss_slurm_no":"N4BiasFieldCorrection_sss.json"}
+}
